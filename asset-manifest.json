@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.1df77b15.js",
+    "static/media/shoes.png": "/static/media/shoes.60e7eb2581b923ddc390.png",
+    "static/media/mall.png": "/static/media/mall.4ca7ac7231594b3d1f06.png",
+    "static/media/mens.png": "/static/media/mens.7f121bd9b33d07343a39.png",
+    "static/media/women.png": "/static/media/women.9a1a684cebe8599d2d6c.png",
+    "static/media/sc10.jpeg": "/static/media/sc10.7b8845a181b41a9a3adf.jpeg",
+    "static/media/prices.jpg": "/static/media/prices.c1847caf688f2895a1c5.jpg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.1df77b15.js.map": "/static/js/main.1df77b15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1df77b15.js"
+  ]
+}
